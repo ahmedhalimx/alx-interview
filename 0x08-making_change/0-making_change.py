@@ -1,5 +1,7 @@
-#!/usr/bin/python3
+#!/usr/bin/env python3
+
 """ 0x08-makeing_change"""
+
 
 def makeChange(coins, total):
     """

@@ -2,10 +2,9 @@
 """
 Matrix Transpose
 """
-from typing import List
 
 
-def rotate_2d_matrix(matrix: List[List]):
+def rotate_2d_matrix(matrix):
     """
     Compute The Transpose of a Matrix
     Args:
